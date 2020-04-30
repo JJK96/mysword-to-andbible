@@ -1,0 +1,66 @@
+genesis,50,GEN,1,Gen.,Gen
+exodus,40,EXO,2,Ex.,Exod
+leviticus,27,LEV,3,Lev.,Lev
+numeri,36,NUM,4,Num.,Num
+deuteronomium,34,DEU,5,Deut.,Deut
+jozua,24,JOS,6,Joz.,Josh
+richteren,21,JDG,7,Richt.,Judg
+ruth,4,RUT,8,Ruth,Ruth
+1samuel,31,1SA,9,1 Sam.,1Sam
+2samuel,24,2SA,10,2 Sam.,2Sam
+1koningen,22,1KI,11,1 Kon.,1Kgs
+2koningen,25,2KI,12,2 Kon.,2Kgs
+1kronieken,29,1CH,13,1 Kron.,1Chr
+2kronieken,36,2CH,14,2 Kron.,2Chr
+ezra,10,EZR,15,Ezra,Ezra
+nehemia,13,NEH,16,Neh.,Neh
+esther,10,EST,17,Esth.,Esth
+job,42,JOB,18,Job,Job
+psalmen,150,PSA,19,Ps.,Ps
+spreuken,31,PRO,20,Spr.,Prov
+prediker,12,ECC,21,Pred.,Eccl
+hooglied,8,SNG,22,Hoogl.,Song
+jesaja,66,ISA,23,Jes.,Isa
+jeremia,52,JER,24,Jer.,Jer
+klaagliederen,5,LAM,25,Klaagl.,Lam
+ezechiel,48,EZK,26,Ezech.,Ezek
+daniel,12,DAN,27,Dan.,Dan
+hosea,14,HOS,28,Hos.,Hos
+joel,3,JOL,29,Joël,Joel
+amos,9,AMO,30,Amos,Amos
+obadja,1,OBA,31,Obadja,Obad
+jona,4,JON,32,Jona,Jonah
+micha,7,MIC,33,Micha,Mic
+nahum,3,NAM,34,Nahum,Nah
+habakuk,3,HAB,35,Hab.,Hab
+zefanja,3,ZEP,36,Zef.,Zeph
+haggai,2,HAG,37,Hag.,Hag
+zacharia,14,ZEC,38,Zach.,Zech
+maleachi,4,MAL,39,Mal.,Mal
+mattheus,28,MAT,40,Matt.,Matt
+markus,16,MRK,41,Mark.,Mark
+lukas,24,LUK,42,Luk.,Luke
+johannes,21,JHN,43,Joh.,John
+handelingen,28,ACT,44,Hand.,Acts
+romeinen,16,ROM,45,Rom.,Rom
+1korinthe,16,1CO,46,1 Kor.,1Cor
+2korinthe,13,2CO,47,2 Kor.,2Cor
+galaten,6,GAL,48,Gal.,Gal
+efeze,6,EPH,49,Efez.,Eph
+filippenzen,4,PHP,50,Filipp.,Phil
+kolossenzen,4,COL,51,Kol.,Col
+1thessalonicensen,5,1TH,52,1 Thess.,1Thess
+2thessalonicensen,3,2TH,53,2 Thess.,2Thess
+1timotheus,6,1TI,54,1 Tim.,1Tim
+2timotheus,4,2TI,55,2 Tim.,2Tim
+titus,3,TIT,56,Tit.,Titus
+filemon,1,PHM,57,Filem.,Phlm
+hebreeen,13,HEB,58,Hebr.,Heb
+jakobus,5,JAS,59,Jak.,Jas
+1petrus,5,1PE,60,1 Petr.,1Pet
+2petrus,3,2PE,61,2 Petr.,2Pet
+1johannes,5,1JN,62,1 Joh.,1John
+2johannes,1,2JN,63,2 Joh.,2John
+3johannes,1,3JN,64,3 Joh.,3John
+judas,1,JUD,65,Judas,Jude
+openbaring,22,REV,66,Openb.,Rev
